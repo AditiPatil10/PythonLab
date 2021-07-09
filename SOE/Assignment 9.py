@@ -1,3 +1,6 @@
+
+
+
 t = int(input("Enter number of test cases: "))
 print()
 while (t != 0):
